@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\samse\\OneDrive\\Documents\\Unreal Projects\\VR_Attempt_2\\Intermediate\\Source\\VR_Attempt_2.Build.cs",
+		"C:\\Users\\samse\\OneDrive\\Documents\\Unreal Projects\\VR_Attempt_2\\Intermediate\\Source\\VR_Attempt_2.Target.cs",
+		"C:\\Users\\samse\\OneDrive\\Documents\\Unreal Projects\\VR_Attempt_2\\Intermediate\\Source\\VR_Attempt_2Client.Target.cs",
+		"C:\\Users\\samse\\OneDrive\\Documents\\Unreal Projects\\VR_Attempt_2\\Intermediate\\Source\\VR_Attempt_2Editor.Target.cs",
+		"C:\\Users\\samse\\OneDrive\\Documents\\Unreal Projects\\VR_Attempt_2\\Intermediate\\Source\\VR_Attempt_2Server.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
