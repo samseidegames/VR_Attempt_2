@@ -24968,3 +24968,6 @@ Script call stack:
 [2024.05.04-21.03.35:309][ 61]AssetCheck: New page: Asset Save: VRTemplateMap
 [2024.05.04-21.03.35:309][ 61]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2024.05.04-21.03.38:385][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.04-21.47.04:636][213]LogDerivedDataCache: C:/Users/samse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12348 files in 13872 folders with total size 258 MiB.
+[2024.05.04-22.47.03:720][  9]LogDerivedDataCache: C:/Users/samse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.223 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12348 files in 13872 folders with total size 258 MiB.
+[2024.05.04-23.47.03:717][807]LogDerivedDataCache: C:/Users/samse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12348 files in 13872 folders with total size 258 MiB.
